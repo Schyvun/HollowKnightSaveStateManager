@@ -1,9 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/../ChangeSaveFiles.iml
 # Datasource local storage ignored files
 /../../../../../../:\Users\Schy\IdeaProjects\ChangeSaveFiles\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/ChangeSaveFiles.iml
