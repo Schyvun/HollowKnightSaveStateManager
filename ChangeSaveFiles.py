@@ -105,6 +105,7 @@ if (len(content) != 4):
         content.append(f'Slot {len(content)}')
 #Create not UI
 root = Tk()
+root.title("Change Save Files")
 varCopy = StringVar()
 varSelect = StringVar()
 
